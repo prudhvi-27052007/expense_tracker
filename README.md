@@ -141,4 +141,4 @@ GitHub: https://github.com/your-username
 
 ---
 
-⭐ If you like this project, don’t forget to star the repository!
+
